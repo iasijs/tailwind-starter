@@ -1,0 +1,30 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+body {
+  background-color: #f7fafc;
+  color: #a0aec0;
+  font-family: sans-serif;
+}
+
+h1 {
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  border-radius: 0.25rem;
+  font-weight: 600;
+  background-color: #edf2f7;
+  color: #000;
+}
+/* @import "./custom-base-styles.css"; */
+
+/* @import "./custom-components.css"; */
+
+/* @import "./custom-utilities.css"; */
+
+
+/*# sourceMappingURL=/styles.c9b106b8.css.map */
